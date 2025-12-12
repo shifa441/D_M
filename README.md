@@ -65,10 +65,11 @@ KNN was trained on the scaled training dataset and evaluated using the test set.
 
 ### KNN Model Performance
 | Metric      | Score |
-Accuracy:       ~96% 
-Precision:      1.00 
-Recall:        ~0.90
-F1-Score:      ~0.95
+|-------------|--------|
+| Accuracy    | ~96%   |
+| Precision   | 1.00   |
+| Recall      | ~0.90  |
+| F1-Score    | ~0.95  |
 The classifier demonstrated strong performance, accurately identifying most malignant cases—an important outcome in medical diagnostics.
 
 ## Conclusion
